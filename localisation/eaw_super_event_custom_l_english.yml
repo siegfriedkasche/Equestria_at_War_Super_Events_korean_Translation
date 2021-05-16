@@ -53,7 +53,7 @@
   #When Pompey and Caesar took opposite sides, he said, "I know from whom I flee without knowing to whom to flee.
   
   SE_GROVER_V_T:0 "Death of Grover V"
-  SE_GROVER_V_A:0 "Will the empire outlive him?"
+  SE_GROVER_V_A:0 "Will the empire outlive him?" 
   SE_GROVER_V_D:0 "The death of His Majesty is a formidable stone that fell from the top of the mountain, which rushes here to crush this colossus on feet of clay.\n -Imperial noblegriff about Griffonian Empire"
 
   SE_LORD_PROTECTOR_START_T:0 "Lord Protector seizes power"
