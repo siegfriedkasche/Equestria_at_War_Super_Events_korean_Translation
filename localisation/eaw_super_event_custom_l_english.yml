@@ -1,7 +1,7 @@
 ﻿l_english:
   SE_GREAT_WAR_T:0 "대전쟁" #The Great War
   SE_GREAT_WAR_A:0 "천년 평화의 끝" #The end of the millennial peace
-  SE_GREAT_WAR_D:0 "위대한 목적에 직면한다면, 어떠한 희생도 위대하지 않을 것입니다.\n -크리살리스 여왕" #In the face of a great goal, no sacrifices will seem too great.\n -Queen Chrysalis
+  SE_GREAT_WAR_D:0 "삶은 나약함을 용서하지 않는다.\n -아돌프 히틀러" #In the face of a great goal, no sacrifices will seem too great.\n -Queen Chrysalis
   
   SE_GREAT_WAR_EV_T:0 "이퀘스트리아의 승리" #Equestrian Victory
   SE_GREAT_WAR_EV_A:0 "드디어 이 지옥이 끝났어" #Finally this hell is over
@@ -9,7 +9,7 @@
   
   SE_GREAT_WAR_SV_T:0 "태양 제국의 승리"
   SE_GREAT_WAR_SV_A:0 "그들이 두려워하는 한!"
-  SE_GREAT_WAR_SV_D:0 "첫 침략 이후, 실레스티아는 이 위협을 완전히 끝내기 위해서 아무것도하지 않았고, 그녀의 실수는 수십만 마리의 포니를 죽음을 야기했다. 나는 필요한 것을 할 준비가 되어있으며 체인질링은 다신 이퀘스트리아의 위협이 되지 않을 것이다.\n -데이브레이커 황후"
+  SE_GREAT_WAR_SV_D:0 "첫 침략 이후, 셀레스티아는 이 위협을 완전히 끝내기 위해서 아무것도하지 않았고, 그녀의 실수는 수십만 마리의 포니를 죽음을 야기했다. 나는 필요한 것을 할 준비가 되어있으며 체인질링은 다신 이퀘스트리아의 위협이 되지 않을 것이다.\n -데이브레이커 황후"
   
   SE_GREAT_WAR_LV_T:0 "루나 제국의 승리"
   SE_GREAT_WAR_LV_A:0 "밤이 승리하리"
@@ -52,33 +52,33 @@
   SE_TWO_SISTERS_WAR_D:0 "난 누구한테 도망가야하는진 알지만 누구를 향해서 도망가는진 모른다.\n -불명의 포니 저널리스트"
   #When Pompey and Caesar took opposite sides, he said, "I know from whom I flee without knowing to whom to flee.
   
-  SE_GROVER_V_T:0 "Death of Grover V"
-  SE_GROVER_V_A:0 "Will the empire outlive him?" 
-  SE_GROVER_V_D:0 "The death of His Majesty is a formidable stone that fell from the top of the mountain, which rushes here to crush this colossus on feet of clay.\n -Imperial noblegriff about Griffonian Empire"
+  SE_GROVER_V_T:0 "그로버 5세의 죽음"
+  SE_GROVER_V_A:0 "제국이 지속될 수 있을까?" 
+  SE_GROVER_V_D:0 "황제의 죽음은 산 꼭대기에서 떨어진 거대한 돌로, 이 곳에 세워진 거대한 석상을 진흙처럼 뭉개버린 일이다.\n -그리포니아 제국 귀족 자문회"
 
-  SE_LORD_PROTECTOR_START_T:0 "Lord Protector seizes power"
-  SE_LORD_PROTECTOR_START_A:0 "Strike at the heart of the empire"
-  SE_LORD_PROTECTOR_START_D:0 "Today you will all make your final sacrifice for the Fatherland. Today the Empire will rise again from the ashes of the Old Order. Today I will shake off the parasites and reclaim our long lost Glory and Pride!\n -Ferdinand's appeal to the imperial court"
+  SE_LORD_PROTECTOR_START_T:0 "호국경이 권력을 잡다."
+  SE_LORD_PROTECTOR_START_A:0 "제국의 중심이 공격당했다!"
+  SE_LORD_PROTECTOR_START_D:0 "오늘 그대들은 위대한 조국을 위해 마지막 희생을 하게될 것이다. 오늘 제국은 무너진 구질서의 무덤 위에서 다시 떠오를 것이다. 오늘은 제국을 좀먹던 기생충들을 털어내고서 오랜 시간동안 잃어버린 제국의 영광과 자부심을 되찾을 것입니다!.\n -황실의 대한 페르디난트의 호소"
   
-  SE_AQUILEIA_REVOLT_T:0 "Aquelian Revolution"
-  SE_AQUILEIA_REVOLT_A:0 "Liberté, Égalité, Fraternité"
-  SE_AQUILEIA_REVOLT_D:0 "Revolution is nothing more nor less than the ideal armed with the sword.\n -Victor Hugo"
+  SE_AQUILEIA_REVOLT_T:0 "아퀼레이아 혁명"
+  SE_AQUILEIA_REVOLT_A:0 "자유, 평등, 연대!"
+  SE_AQUILEIA_REVOLT_D:0 "혁명은, 칼로 무장한 이상에 불과하다.\n -빅토르 위고"
   
-  SE_REPUBLIC_WIN_T:0 "Triumph of the Republican Dream"
-  SE_REPUBLIC_WIN_A:0 "Dream comes true"
-  SE_REPUBLIC_WIN_D:0 "They have laid down their lives on the bloody battle field.\nShout, shout the battle cry of Freedom!\nTheir motto is resistance – "To the tyrants never yield!"\nShout, shout the battle cry of Freedom!\n -Republican song"
+  SE_REPUBLIC_WIN_T:0 "공화주의 이상의 행진"
+  SE_REPUBLIC_WIN_A:0 "꿈이 현실이 되다!"
+  SE_REPUBLIC_WIN_D:0 "민주제는 인민의 인민을 위한 인민의 의한 체제이다.\n -에이브럼헴 링컨
   
-  SE_REPUBLIC_LOSE_T:0 "End of the Republican Dream"
-  SE_REPUBLIC_LOSE_A:0 "Idea alone is not enough to win."
-  SE_REPUBLIC_LOSE_D:0 "It seems to the folk that they are free in revolutions, this is a terrible self-deception. In a revolution there is no and there can be no freedom, the revolution is always hostile to the spirit of freedom. A revolution happens like a disease, misfortune, natural disaster, fire or flood happens.\n -Archont Eros VII"
+  SE_REPUBLIC_LOSE_T:0 "공화주의 이상의 죽음"
+  SE_REPUBLIC_LOSE_A:0 "이상만으로는 이길 수 없었다."
+  SE_REPUBLIC_LOSE_D:0 "사람들은 혁명을 통해 자유로워질 것이라고 생각한다. 이는 끔찍한 자기 기만이다. 혁명에는 자유가 없으며 자유가 있을 수도 없다! 혁명은 항상 자유의 적이였으며 혁명은 질병, 재난, 자연재해 ,화재나 홍수처럼 발생하는 것일 뿐이다.\n -집정관 에레스 7세"
   
-  SE_GROVER_VI_CORONATION_T:0 "Coronation of Grover VI"
-  SE_GROVER_VI_CORONATION_A:0 "Heil Kaiser, dir!"
-  SE_GROVER_VI_CORONATION_D:0 "I am aware of my duty to preserve the peace and protect the independence of the Empire, based on the United strength of its folk. I accept the crown in the hope that the griffons will be able to enjoy the reward of their fervent and selfless struggle for lasting peace within the borders of the Fatherland.\n -From Grover VI's coronation speech"
+  SE_GROVER_VI_CORONATION_T:0 "그로버 6세의 즉위"
+  SE_GROVER_VI_CORONATION_A:0 "황제여 그대에게 승리의 왕관을"
+  SE_GROVER_VI_CORONATION_D:0 "나는 여러분들의 힘으로 평화를 보존하고 제국의 독립을 보호할 의무가 있습니다. 나는 그런 의무를 알고 있습니다. 그리폰들이 제국 국경내에서 영원할 평화를 위해 열렬하고 이타적인 투쟁의 보상으로써 영원한 평화를 얻기 바라며 이 왕관을 받겠습니다.\n -그로버 6세의 대관식 연설 중"
   
-  SE_GROVER_II_RESURRECTION_T:0 "Return of Grover II"
-  SE_GROVER_II_RESURRECTION_A:0 "Für Gott und Kaiser!"
-  SE_GROVER_II_RESURRECTION_D:0 "When a monarch is said to be kind, it means that he is no good.\n -Emperor Grover II"
+  SE_GROVER_II_RESURRECTION_T:0 "그로버 2세가 돌아오다!"
+  SE_GROVER_II_RESURRECTION_A:0 "신과 황제를 위해서!"
+  SE_GROVER_II_RESURRECTION_D:0 "친절한 군주는 좋은 군주가 아니라는 뜻으로 작용한다. 훌륭한 군주란 끊임없이 제국을 위해 일하며 제국을 위협하는 적들을 무자비하게 무너뜨려야 할 힘을 지닌 자다.\n -황제 그로버 2세"
   
   SE_MARESOC_T:0 "MARESOC"
   SE_MARESOC_A:0 "Chained forever"
@@ -361,12 +361,12 @@
   SE_HERZLAND_PYT_TRUTHAHN_D:0 "The Gods favor us! In the name of Boreas, Eyre, and Arcturius, we will embark on a holy campaign against traitors and infidels - communists, republicans, archons, atheists, maarites, and other scoundrels! Do not spare these vermins, for your deeds make the Gods smile!\n -Wilke Truthahn"
   
   SE_HERZLAND_PYT_EREBUS_T:0 "$SE_HERZLAND_UNITE_TITLE$"
-  SE_HERZLAND_PYT_EREBUS_A:0 "A new dynasty, an old ambitions"
-  SE_HERZLAND_PYT_EREBUS_D:0 "The Empire is the greatest achievement of the griffons, and its decline is the greatest disaster and disgrace for all of us. But we have never run from difficulties, and if we can reunite all the griffons under one flag, then it is our duty to do so.\n -Emperor Erebus I"
+  SE_HERZLAND_PYT_EREBUS_A:0 "새로운 왕조 오래된 야망"
+  SE_HERZLAND_PYT_EREBUS_D:0 "제국은 그리폰의 가장 큰 업적이며 제국의 쇠퇴는 우리 모두에게 가장 큰 재앙이자 수치입니다. 그러나 우리는 어려움에서 도망친 적이 없으며 모든 그리폰을 하나의 깃발 아래에서 재결합 할 수 있다면 그리 하는 것이 우리의 의무입니다.\n -황제 에레버스 1세"
   
   SE_HERZLAND_PYT_REPUBLIC_T:0 "$SE_HERZLAND_UNITE_TITLE$"
-  SE_HERZLAND_PYT_REPUBLIC_A:0 "Grover I is turning in his grave"
-  SE_HERZLAND_PYT_REPUBLIC_D:0 "The fact that our little Greifenmarschen managed to survive the Empire was a clear sign that the time of the tyrannical monarchies receding into the past. The griffons do not need conquests on the other side of the continent or imperial glory, they need food on the table and the opportunity to decide their fate.\n -Erebus Whiteplume"
+  SE_HERZLAND_PYT_REPUBLIC_A:0 "그로버 1세는 그의 무덤에서 돌아다닌다.'
+  SE_HERZLAND_PYT_REPUBLIC_D:0 "우리 작은 그라이펜마르센이 제국에서 살아남았다는 것은 폭군 군주 시대가 과거의 유산으로 저버렸다는 것을 의미합니다. 그리폰은 대륙의 반대편이나 제국의 영광을 정복 할 필요가 없습니다! 그들은 식탁에 있는 음식과 그들의 운명을 결정할 자기 결졍권의 기회를 필요로 합니다!.\n -흰 깃털 에레버스"
   
   #Yale
   
@@ -387,17 +387,17 @@
   SE_HERZLAND_YAL_NEW_SPARK_D:0 "As much as some may criticize democracy, this is the best thing the world can offer us at the moment unless we want to fall back into the abyss of tyranny.\n -Georgina Fredrika Schüler"
   
   SE_HERZLAND_YAL_TECHNOCRACY_T:0 "$SE_HERZLAND_UNITE_TITLE$"
-  SE_HERZLAND_YAL_TECHNOCRACY_A:0 "Science at the forefront"
-  SE_HERZLAND_YAL_TECHNOCRACY_D:0 "As the industrial society develops, the technostructure plays an increasingly important role both in the economy and in the management of society as a whole. Therefore, political power should be concentrated in the hands of technical specialists who manage society based on scientific and technical knowledge.\n -Magnificus Mikusian"
+  SE_HERZLAND_YAL_TECHNOCRACY_A:0 "과학 발전의 최전선"
+  SE_HERZLAND_YAL_TECHNOCRACY_D:0 "산업 사회의 발전에 따라 기술 구조는 경제와 사회, 관리 모두에서 중요한 역활을 합니다. 그러므로 정치 권력은 과학 기술의 지식을 바탕으로 사회를 경영하는 기술 전문가들에게 집중되어야합니다..\n -마그니피쿠스 미쿠시안"
   
   SE_HERZLAND_YAL_COM_T:0 "$SE_HERZLAND_UNITE_TITLE$"
-  SE_HERZLAND_YAL_COM_A:0 "Mother Anarchy Loves Her Sons"
-  SE_HERZLAND_YAL_COM_D:0 "Anarchism stands for the liberation of the mind from the dominion of religion and liberation of the body from the coercion of property; liberation from the shackles and restraint of government. It stands for a social order based on the free grouping of individuals.\n -Erich Mühschnabel"
+  SE_HERZLAND_YAL_COM_A:0 "어머니 아나키는 그의 아들을 사랑하시네!"
+  SE_HERZLAND_YAL_COM_D:0 "아나키즘은 종교의 지배로부터 정신의 해방을, 자본주의의 강압으로부터 신체의 해방을 의미한다. 족쇄로부터의 해방과 자유로운 공동체의 합의. 개인의 자유로운 상호부조적 코뮌의 결성. 이것에 기반한 사회질서 건축을 의미한다.\n -에리히 뮈슈나벨"
   
   #Katerin
   
   SE_HERZLAND_KAT_COM_T:0 "$SE_HERZLAND_UNITE_TITLE$"
-  SE_HERZLAND_KAT_COM_A:0 "Socialism, Faith, Empire"
+  SE_HERZLAND_KAT_COM_A:0 "사회주의, 신앙, 제국
   SE_HERZLAND_KAT_COM_D:0 "There is only one important difference between capitalism and socialism: capitalism is the way of the Maar and his servants - the exploiters of the nobles, the rich, and the false archons, while socialism is the way of the Gods, who look with sincere love at all the griffons.\n -Heinrich Duskfeather"
   
   SE_HERZLAND_KAT_KATERINTREUE_T:0 "$SE_HERZLAND_UNITE_TITLE$"
