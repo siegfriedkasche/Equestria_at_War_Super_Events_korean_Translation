@@ -86,64 +86,64 @@
   
   SE_ESB_T:0 "이퀘스트리아 망명정부의 반격" #Equestria in exile strikes back
   SE_ESB_A:0 "이퀘스트리아의 자유를 위하여!"
-  SE_ESB_D:0 "이퀘스트리아는 전투에서 패했지만 전쟁에서 패하지 않았습니다! 우리가 잃어버린 것은 없으며 우리 조국의 자유와 위대함을 되 찾을 날이 올 것이기에 나는 모든 이퀘스트리아인이 어디에 있든 행동, 희생, 희망으로 나와 단결할 것입니다.\n -셀레스티아 공주"
+  SE_ESB_D:0 "이퀘스트리아는 전투에서 패했지만 전쟁에서 패하지 않았습니다! 우리가 잃어버린 것은 없으며 우리 조국의 자유와 위대함을 되 찾을 날이 올 것이기에 나는 모든 이퀘스트리아인이 어디에 있든 행동, 희생, 희망으로 나와 단결할 것이라 믿고 있습니다.\n -셀레스티아 공주"
   
-  SE_TS_PH_T:0 "Twilight Sparkle crowned as Princess of Harmony"
-  SE_TS_PH_A:0 "Glory to the Princess!"
+  SE_TS_PH_T:0 "Twilight Sparkle crowned as Princess of Harmony" #
+  SE_TS_PH_A:0 "Glory to the Princess!" #
   SE_TS_PH_D:0 "Everyone who came to Canterlot for this ceremony or hear it on the radio, you are all here for me. It is hard for me to find words in which to tell you of the strength which this knowledge has given me. I have in sincerity pledge myself to your service, as so many of you are pledged to mine. Throughout all my life and with all my heart I shall strive to be worthy of your trust.\n -From Twilight Sparkle's coronation speech"
   
-  SE_RIV_EMP_T:0 "Return of the River Empire"
-  SE_RIV_EMP_A:0 "Split in the River Coalition"
-  SE_RIV_EMP_D:0 "The whole secret of the campaigns unleashed against Riverlands can be explained in two words: Democracy and Communism… we have to extirpate these two evils from our land.\n -General Wild Tree"
-  
+  SE_RIV_EMP_T:0 "리버 제국의 부활"
+  SE_RIV_EMP_A:0 "리버 연합이 붕괴하다니"
+  SE_RIV_EMP_D:0 "리버랜드 상대로 펼쳐지는 공작활동의 비밀은 두 단어로 설명 할 수 있지, 민주주의와 공산주의말이야... 우리는 우리 땅에서 이 두 가지 악을 제거해야한다.\n -와일드 트리 장군"
+  #The whole secret of the campaigns unleashed against Riverlands can be explained in two words
   SE_LP_UH_T:0 "$SE_HERZLAND_UNITE_TITLE$"
-  SE_LP_UH_A:0 "How did this madgryf win?"
-  SE_LP_UH_D:0 "Restoring the greatness of the empire is the only goal that griffons can think of. All who prevent this great cause are traitors and we must root out this infection - regardless of their status, gender or age - to destroy every house, every nest, every egg.\n -Ferdinand Dawnclaw"
-  
-  SE_THX_UPRISING_S_T:0 "Thorax wins the civil war"
-  SE_THX_UPRISING_S_A:0 "Changelings are free from tyranny"
+  SE_LP_UH_A:0 "메드그리프가 어떻게 이겼어?" #How did this madgryf win
+  SE_LP_UH_D:0 "제국의 위대함을 회복하는 것은 그리폰에게 있어서 유일한 목표다. 이 위대한 대의를 막는 모든 사람은 배신자며 우리는 모든 집, 모든 둥지, 모든 알을 파괴하기 위해 그들의 지위, 성별 또는 나이에 관계없이 전염병같은 그들을 제거 해야만 한다.\n -페르디난드 던클로우" #Ferdinand Dawnclaw
+  #Restoring the greatness of the empire is the only goal that griffons can think of. All who prevent this great cause are traitors and we must root out this infection - regardless of their status, gender or age - to destroy every house, every nest, every egg.
+  SE_THX_UPRISING_S_T:0 "쏘록스 승리" #Thorax 
+  SE_THX_UPRISING_S_A:0 "폭정으로부터 자유로운 체인질링!"
   SE_THX_UPRISING_S_D:0 "The guilt of civil war, the miseries which it brings in its train, lie at the door of those who provoked it by illegal oppression, rather than of such as are driven to arms in order to assert their natural rights as free creatures.\n -Thorax"
   
-  SE_CHRYSALIS_CORONATION_T:0 "Chrysalis crowned as Empress of Equus"
-  SE_CHRYSALIS_CORONATION_A:0 "Equestria at haze"
-  SE_CHRYSALIS_CORONATION_D:0 "When I want to know what the Changlings want, I ask myself.\n -Queen Chrysalis"
+  SE_CHRYSALIS_CORONATION_T:0 "에쿠스의 여제, 크리살리스" # crowned as Empress of Equus
+  SE_CHRYSALIS_CORONATION_A:0 "안개로 뒤덮힌 이퀘스트리아" #Equestria at haze
+  SE_CHRYSALIS_CORONATION_D:0 "체인질링이 무엇을 원하는지 알고 싶을 때 스스로에게 물어보아라\n -크리살리스 여왕"
   
-  SE_STG_UNITES_EQUESTRIA_T:0 "Stalliongrad unites Equestria"
-  SE_STG_UNITES_EQUESTRIA_A:0 "Onwards to a brighter future!"
-  SE_STG_UNITES_EQUESTRIA_D:0 "Solemnly proclaiming the inviolability of the foundations of Soviet power, which found their expression in the socialist Soviet republics that endowed us with constitutions, we, the delegates of these republics, on the basis of the powers granted to us, decide to sign an agreement. on the formation of the "Equestrian Socialist Republic"\n -From Declaration of the Creation of the ESR"
+  SE_STG_UNITES_EQUESTRIA_T:0 "스탈리온그라드, 이퀘스트리아 통합"
+  SE_STG_UNITES_EQUESTRIA_A:0 "더 밝은 미래를 향해!"
+  SE_STG_UNITES_EQUESTRIA_D:0 "우리에게 헌법을 부여한 사회주의 소비에트 공화국에 명시되어 있듯이, 소비에트 권력의 기초인 불가침성을 엄숙히 선포하며, 부여된  권력을 근간하여 우리 공화국의 대표자들은 "이퀘스트리아 사회주의 공화국" 선포에 대한 합의에 서명하기로 결정하였습니다."\n -ESR 선포 선언문에서"
   
-  SE_STG_DEFEATS_CHN_T:0 "Stalliongrad Victory"
-  SE_STG_DEFEATS_CHN_A:0 "The revolution is marching on the planet"
-  SE_STG_DEFEATS_CHN_D:0 "Glory to our heroic red army, which defended the independence of our Motherland and won victory over the enemy!\nGlory to our great people, the victorious people!\nEternal glory to the heroes who fell in battle with the enemy and gave their lives for the freedom and happiness of our people!\n -Nestor Lunin"
+  SE_STG_DEFEATS_CHN_T:0 "스탈리온그라드 승리"
+  SE_STG_DEFEATS_CHN_A:0 "혁명은 지구위에 행진하고 있습니다."
+  SE_STG_DEFEATS_CHN_D:0 "영광스러운 영웅적 붉은 군대는 우리 조국의 독립을 수호하고 적으로 부터 승리를 쟁취하였다! \n영광스러운 우리의 인민들이여, 승리를 만끽하는 우리의 인민들이여!\n자유와 인민의 행복을 위해 적들과 몸숨바쳐 싸워낸 영웅들에게 무궁한 영광을!\n -네스토르 루이닌"
   
-  SE_STG_DEFEATED_T:0 "The Collapse Of Stalliongrad"
-  SE_STG_DEFEATED_A:0 "The communist experiment has failed"
-  SE_STG_DEFEATED_D:0 "The secret of a good life in the country is simple: hard work, observance of the law and no communism!\n -King Kloseu de Kissau"
+  SE_STG_DEFEATED_T:0 "스탈리온그라드의 몰락"
+  SE_STG_DEFEATED_A:0 "공산주의 이상은 실패하고야 말았다."
+  SE_STG_DEFEATED_D:0 "나라가 오랬동안 풍족하게 살아가는 법은 아주 간단해: 근면, 법에 대한 복종 그리고 공산주의에 소멸!\n -클로즈우의 키사우 왕" #Kloseu de Kissau king
   
-  SE_DED_T:0 "Apocalypse"
-  SE_DED_A:0 "And silence fell"
-  SE_DED_D:0 "My dear friend, I never would've thought\nBut silence is the worst thing war has brought.\n -Unknown poet of pre-apocalypse era"
+  SE_DED_T:0 "종말" #Apocalypse
+  SE_DED_A:0 "그리고 침묵이 떨어졌다"
+  SE_DED_D:0 "소중한 나의 친구여, 나는 결코 아무 생각도 하지않을거야\n그러나 침묵은 가장 참혹한 전쟁을 불러오지.\n -종말 이전 시대의 알려지지 않은 시인"
   
   ## 1.1.0 - 1.1.1 ##
   
-  SE_OST_GRIFFONIA_T:0 "Ost-Griffonian Empire"
-  SE_OST_GRIFFONIA_A:0 "These are dark times"
+  SE_OST_GRIFFONIA_T:0 "오스트-그리포니아 제국"
+  SE_OST_GRIFFONIA_A:0 "어둠의 시대가 도래하였도다."
   SE_OST_GRIFFONIA_D:0 "Whether nations live in prosperity or starve to death interests me only in so far as we need them as slaves for our culture: otherwise it is of no interest to me. We, Griffons, who are the only creatures in the world who have a decent attitude towards animals and will treat these pony animals accordingly.\n -Edler von Wingenberg"
   
   SE_PAN_GRIFFONIA_T:0 "Pan-Griffonian Socialist Commonwealth"
   SE_PAN_GRIFFONIA_A:0 "Forward to Communism!"
   SE_PAN_GRIFFONIA_D:0 "Socialism in life demands a complete spiritual transformation in the masses degraded by centuries of bourgeois rule.\n -Victor Allard"
   
-  SE_WORLD_SOC_REP_T:0 "Socialist Republic of the World"
-  SE_WORLD_SOC_REP_A:0 "The world is united as never before"
-  SE_WORLD_SOC_REP_D:0 "Life is beautiful. Let the future generations cleanse it of all evil, oppression and violence, and enjoy it to the full!\n -Sinister Serov"
+  SE_WORLD_SOC_REP_T:0 "세계 사회주의 공화국"
+  SE_WORLD_SOC_REP_A:0 "세상은 예전처럼 단결될수 없어"
+  SE_WORLD_SOC_REP_D:0 "인생은 아름다워. 미래 세대가 모든 악인 억압과 폭력은 정화하게하고, 아름다운 인생을 마음껏 즐기십시오!\n -Sinister Serov"
   
-  SE_HOLY_PONY_EMPIRE_T:0 "Holy Pony Empire"
-  SE_HOLY_PONY_EMPIRE_A:0 "So, now Griffonia is Ponia?"
-  SE_HOLY_PONY_EMPIRE_D:0 "As the ruins of Griffenheim burn, so will burn their rotten Empire and the Grover dynasty.\n -Grand Prince Heavenly Snow"
+  SE_HOLY_PONY_EMPIRE_T:0 "신성 포니 제국"
+  SE_HOLY_PONY_EMPIRE_A:0 "그럼 이제 그리포니아가 포니아인가?"
+  SE_HOLY_PONY_EMPIRE_D:0 "그리펜하임의 폐허가 불에 타버릴 때 그들의 썩은 제국과 그로버 왕조도 불태워 버릴 것입니다.\n -그랜드 프린스 천상의 눈" #Heavenly Snow
   
-  SE_GRI_RIV_WAR_GRI_T:0 "The Great Eastern War"
-  SE_GRI_RIV_WAR_GRI_A:0 "Alea iacta est"
+  SE_GRI_RIV_WAR_GRI_T:0 "대 동방 전쟁"
+  SE_GRI_RIV_WAR_GRI_A:0 "주사위는 던져졌다."
   SE_GRI_RIV_WAR_GRI_D:0 "Now even the most obstinate idealists understood that good and evil were merely philosophical concepts. It was a time when even little children were being taught that slaughter, destruction, the extermination of whole nations were fine and praiseworthy actions. Every day millions of newspaper columns asserted and repeated this.\n -Griffonian writer"
   
   SE_LNS_POWNER_T:0 "Eternal Vengeance"
