@@ -102,9 +102,9 @@
   SE_LP_UH_A:0 "메드그리프가 어떻게 이겼어?" #How did this madgryf win
   SE_LP_UH_D:0 "제국의 위대함을 회복하는 것은 그리폰에게 있어서 유일한 목표다. 이 위대한 대의를 막는 모든 사람은 배신자며 우리는 모든 집, 모든 둥지, 모든 알을 파괴하기 위해 그들의 지위, 성별 또는 나이에 관계없이 전염병같은 그들을 제거 해야만 한다.\n -페르디난드 던클로우" #Ferdinand Dawnclaw
   #Restoring the greatness of the empire is the only goal that griffons can think of. All who prevent this great cause are traitors and we must root out this infection - regardless of their status, gender or age - to destroy every house, every nest, every egg.
-  SE_THX_UPRISING_S_T:0 "티렉스 승리" #Thorax 
+  SE_THX_UPRISING_S_T:0 "토렉스 승리" #Thorax 
   SE_THX_UPRISING_S_A:0 "폭정으로부터 자유로운 체인질링!"
-  SE_THX_UPRISING_S_D:0 "The guilt of civil war, the miseries which it brings in its train, lie at the door of those who provoked it by illegal oppression, rather than of such as are driven to arms in order to assert their natural rights as free creatures.\n -Thorax"
+  SE_THX_UPRISING_S_D:0 "The guilt of civil war, the miseries which it brings in its train, lie at the door of those who provoked it by illegal oppression, rather than of such as are driven to arms in order to assert their natural rights as free creatures.\n -토렉스"
   
   SE_CHRYSALIS_CORONATION_T:0 "에쿠스의 여제, 크리살리스" # crowned as Empress of Equus
   SE_CHRYSALIS_CORONATION_A:0 "안개로 뒤덮힌 이퀘스트리아" #Equestria at haze
