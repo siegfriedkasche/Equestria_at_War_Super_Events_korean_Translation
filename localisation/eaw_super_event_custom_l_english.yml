@@ -162,19 +162,19 @@
   
   SE_KARTHIN_COM_T:0 "남부 그리포니아 사회주의 공화국 연합"
   SE_KARTHIN_COM_A:0 "노동자들의 제국?"
-  SE_KARTHIN_COM_D:0 "사회주의란 개인의 새로운 권리의 대한 주장이다.\n 안토니오 프롤레타리노"
+  SE_KARTHIN_COM_D:0 "사회주의란 개인의 새로운 권리의 대한 주장이다.\n -안토니오 프롤레타리노"
   
-  SE_REPUBLIC_WIN_COM_T:0 "Triumph of the Republican Dream"
-  SE_REPUBLIC_WIN_COM_A:0 "The New Republic for a new era"
-  SE_REPUBLIC_WIN_COM_D:0 "Let us plough and build our nation,\nLearn and work as never yet,\nThat a free new generation,\nFaith in its own strength beget!\n -Republican song"
+  SE_REPUBLIC_WIN_COM_T:0 "공화주의 이상의 승리"
+  SE_REPUBLIC_WIN_COM_A:0 "새 시대를 위한 새 공화국"
+  SE_REPUBLIC_WIN_COM_D:0 "쟁기질하라, 건설하라,\n배우고, 창조하라 우리가 하지 못했던 것들을!,\n그리고 우리의 힘을 굳게 믿는다면,\n자유로운 한 세대가 떠오르리다.\n -폐허에서 부활하여
   
-  SE_REPUBLIC_WIN_AUTH_T:0 "Triumph of the Republican Dream"
-  SE_REPUBLIC_WIN_AUTH_A:0 "Long Live The Republic!"
-  SE_REPUBLIC_WIN_AUTH_D:0 "Unity and justice and freedom\nAre the safeguards of fortune;\nFlourish in the radiance of this fortune,\nFlourish, our Fatherland!\n -Republican song"
+  SE_REPUBLIC_WIN_AUTH_T:0 "공화주의 이상의 승리"
+  SE_REPUBLIC_WIN_AUTH_A:0 "공화국이여 영원하라!"
+  SE_REPUBLIC_WIN_AUTH_D:0 "통일과 정의의 자유, 조국을 위하여,\n우리 모두가 노력하자 형제애를 가지고, 마음과 손을 모아서,\n통일과 정의의 자유는 행복의 근거가 될 지어니,\n이 번영의 광명 속에서 피어나리 번성하여라, 나의 조국이여!\n -조국의 노래"
   
-  SE_REPUBLIC_WIN_S_T:0 "Triumph of the Republican Dream"
-  SE_REPUBLIC_WIN_S_A:0 "For The Strong Republic!"
-  SE_REPUBLIC_WIN_S_D:0 "No one has to thank me for accepting the burden, because it is so big sacrifice for me to please or I would not do for kindness to anyone. I do this to for my country, as a duty of conscience, coldly, calmly completed.\n -Reinhard Suntail"
+  SE_REPUBLIC_WIN_S_T:0 "공화주의 이상의 승리"
+  SE_REPUBLIC_WIN_S_A:0 "강력한 공화국을 위해서!"
+  SE_REPUBLIC_WIN_S_D:0 "그 부담을 받아들인 것에 대해 아무도 감사할 이유가 없습니다. 왜냐하면 제가 기뻐하기에는 너무 큰 희생이였기 떄문입니다. 이 희생이 없었다면 누구도 이 친절을 배풀지 못했을 것입니다. 나는 우리나라를 위해서 양심의 의무로써 차갑고도 차분하게 완성된 조국을 만들 것입니다.\n -라인하르트 선테일"
   
   SE_STG_ATTACK_EQS_T:0 "Stalliongrad marches on Equestria"
   SE_STG_ATTACK_EQS_A:0 "The next phase of the revolution"
