@@ -146,11 +146,11 @@
   
   SE_GRI_RIV_WAR_GRI_T:0 "대 동방 전쟁"
   SE_GRI_RIV_WAR_GRI_A:0 "주사위는 던져졌다."
-  SE_GRI_RIV_WAR_GRI_D:0 "Now even the most obstinate idealists understood that good and evil were merely philosophical concepts. It was a time when even little children were being taught that slaughter, destruction, the extermination of whole nations were fine and praiseworthy actions. Every day millions of newspaper columns asserted and repeated this.\n -Griffonian writer"
+  SE_GRI_RIV_WAR_GRI_D:0 "이제 가장 완고하던 이상주의자조차 선과 악은 단지 철학적 개념이라는 것을 이해했습니다. 어린 아이들조차도 온 민족의 학살, 멸망, 근절은 훌륭하고 칭찬받을만한 행동이라고 배웠던 시대였습니다. 매일 수백만 개의 신문 칼럼이 이를 주장하고 반복했습니다.\n -그리포니아 작가"
   
-  SE_LNS_POWNER_T:0 "Eternal Vengeance"
-  SE_LNS_POWNER_A:0 "An eye for an eye"
-  SE_LNS_POWNER_D:0 "For every Pony the Reformists murdered\nFor every racist law they passed\nFor every wrong that wasn’t right\nFor all the dead Kerstininkai would fight\n -Kerstininkai marching song"
+  SE_LNS_POWNER_T:0 "영원한 복수"
+  SE_LNS_POWNER_A:0 "눈에는 눈"
+  SE_LNS_POWNER_D:0 "개혁 주의자들이 살해한 모든 포니의 희생으로 \ n 모든 인종에 대한 인종차별법에 대해 통과했습니다. \ n 옳지 않은 모든 잘못에 맞서 \ n 죽은 모든 크랲시닌카이가 싸울 것입니다.\n -Kerstininkai marching song"
   
   SE_LNS_GM_T:0 "그리프킹 제국"
   SE_LNS_GM_A:0 "노동 캠프와 억압이 있는 유토피아?"
