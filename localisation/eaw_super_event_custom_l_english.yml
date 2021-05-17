@@ -81,20 +81,20 @@
   SE_GROVER_II_RESURRECTION_D:0 "친절한 군주는 좋은 군주가 아니라는 뜻으로 작용한다. 훌륭한 군주란 끊임없이 제국을 위해 일하며 제국을 위협하는 적들을 무자비하게 무너뜨려야 할 힘을 지닌 자다.\n -황제 그로버 2세"
   
   SE_MARESOC_T:0 "MARESOC"
-  SE_MARESOC_A:0 "영원한 구속"
+  SE_MARESOC_A:0 "전쟁은 평화. 자유는 예속. 무지는 힘."
   SE_MARESOC_D:0 "프롤레타리아는 결코 반란을 일으키지 않을 거야. 그들은 할 수 없어. 폭력적인 봉기의 이상을 소중히 마음속에서 간직했었다면 그 꿈을 버려야할거야. 당이 전복 될 수 있는 방법은 존재하지않아. 당의 통치여 영원하리.\n -당 내부 인원"
   
   SE_ESB_T:0 "이퀘스트리아 망명정부의 반격" #Equestria in exile strikes back
   SE_ESB_A:0 "이퀘스트리아의 자유를 위하여!"
   SE_ESB_D:0 "이퀘스트리아는 전투에서 패했지만 전쟁에서 패하지 않았습니다! 우리가 잃어버린 것은 없으며 우리 조국의 자유와 위대함을 되 찾을 날이 올 것이기에 나는 모든 이퀘스트리아인이 어디에 있든 행동, 희생, 희망으로 나와 단결할 것입니다.\n -셀레스티아 공주"
   
-  SE_TS_PH_T:0 "Twilight Sparkle crowned as Princess of Harmony"
-  SE_TS_PH_A:0 "Glory to the Princess!"
-  SE_TS_PH_D:0 "Everyone who came to Canterlot for this ceremony or hear it on the radio, you are all here for me. It is hard for me to find words in which to tell you of the strength which this knowledge has given me. I have in sincerity pledge myself to your service, as so many of you are pledged to mine. Throughout all my life and with all my heart I shall strive to be worthy of your trust.\n -From Twilight Sparkle's coronation speech"
+  SE_TS_PH_T:0 "트와일라잇 스파클 공주가 조화의 공주로 선정되다!"
+  SE_TS_PH_A:0 "공주에게 영광을!"
+  SE_TS_PH_D:0 "이 행사를 위해서 캔틀롯에 오시거나 라디오로 들으시는 분들이 저를 위해서 여기에 있습니다. 이 지식이 제게 준 힘을 표현할 수 있는 말을 찾기가 어렵습니다만 저는 진심으로 감사함을 가지고 있습니다. 많은 분들이 저에게 충성을 맹세하는 서약을 발표하였고 저는 제 자신을 여러분들께 봉사하겠다고 선언하겠습니다. 제 평생 온 마음을 다해 여려분들의 신뢰에 합당하도록 노력할 것을 맹세합니다.\n -트와일라잇 스파클 공주의 대관식 연설"
   
-  SE_RIV_EMP_T:0 "Return of the River Empire"
-  SE_RIV_EMP_A:0 "Split in the River Coalition"
-  SE_RIV_EMP_D:0 "The whole secret of the campaigns unleashed against Riverlands can be explained in two words: Democracy and Communism… we have to extirpate these two evils from our land.\n -General Wild Tree"
+  SE_RIV_EMP_T:0 "리버 제국의 재건"
+  SE_RIV_EMP_A:0 "리버 연합이 붕괴되다."
+  SE_RIV_EMP_D:0 "리버 랜드를 상대로 펼처지는 각종 공작활동들의 비밀은 민주주의와 공산주의로 설명할 수 있다. 우리는 이 두가지 악을 우리들의 땅에서 제거해야한다.\n -와일드 트리 장군"
   
   SE_LP_UH_T:0 "$SE_HERZLAND_UNITE_TITLE$"
   SE_LP_UH_A:0 "How did this madgryf win?"
