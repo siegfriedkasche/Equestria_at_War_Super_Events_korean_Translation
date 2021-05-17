@@ -108,19 +108,19 @@
   
   SE_CHRYSALIS_CORONATION_T:0 "에쿠스의 여제, 크리살리스" # crowned as Empress of Equus
   SE_CHRYSALIS_CORONATION_A:0 "안개로 뒤덮힌 이퀘스트리아" #Equestria at haze
-  SE_CHRYSALIS_CORONATION_D:0 "체인질링이 무엇을 원하는지 알고 싶을 때 스스로에게 물어보아라\n -크리살리스 여왕"
+  SE_CHRYSALIS_CORONATION_D:0 "체인질링이 무엇을 원하는지 알고 싶을 때 스스로에게 물어보아라.\n -크리살리스 여왕"
   
   SE_STG_UNITES_EQUESTRIA_T:0 "스탈리온그라드, 이퀘스트리아 통합"
   SE_STG_UNITES_EQUESTRIA_A:0 "더 밝은 미래를 향해!"
-  SE_STG_UNITES_EQUESTRIA_D:0 "우리에게 헌법을 부여한 사회주의 소비에트 공화국에 명시되어 있듯이, 소비에트 권력의 기초인 불가침성을 엄숙히 선포하며, 부여된  권력을 근간하여 우리 공화국의 대표자들은 "이퀘스트리아 사회주의 공화국" 선포에 대한 합의에 서명하기로 결정하였습니다."\n -ESR 선포 선언문에서"
+  SE_STG_UNITES_EQUESTRIA_D:0 "우리에게 헌법을 부여한 소비에트 사회주의 공화국에 명시되어 있듯이, 소비에트 권력의 기초인 불가침성을 엄숙히 선포하며, 부여된  권력을 근간하여 우리 공화국의 대표자들은 "이퀘스트리아 사회주의 공화국" 선포에 대한 합의에 서명하기로 결정하였습니다."\n -ESR 선포 선언문에서"
   
   SE_STG_DEFEATS_CHN_T:0 "스탈리온그라드 승리"
-  SE_STG_DEFEATS_CHN_A:0 "혁명은 지구위에 행진하고 있습니다."
+  SE_STG_DEFEATS_CHN_A:0 "혁명이 이 지구위에서 행진하고 있다."
   SE_STG_DEFEATS_CHN_D:0 "영광스러운 영웅적 붉은 군대는 우리 조국의 독립을 수호하고 적으로 부터 승리를 쟁취하였다! \n영광스러운 우리의 인민들이여, 승리를 만끽하는 우리의 인민들이여!\n자유와 인민의 행복을 위해 적들과 몸숨바쳐 싸워낸 영웅들에게 무궁한 영광을!\n -네스토르 루이닌"
   
   SE_STG_DEFEATED_T:0 "스탈리온그라드의 몰락"
-  SE_STG_DEFEATED_A:0 "공산주의 이상은 실패하고야 말았다."
-  SE_STG_DEFEATED_D:0 "나라가 오랬동안 풍족하게 살아가는 법은 아주 간단해: 근면, 법에 대한 복종 그리고 공산주의에 소멸!\n -클로즈우의 키사우 왕" #Kloseu de Kissau king
+  SE_STG_DEFEATED_A:0 "이상이 무너젔다."
+  SE_STG_DEFEATED_D:0 "나라가 오랬동안 풍족하게 살아가는 법은 아주 간단하다. 근면, 법에 대한 복종 그리고 공산주의에 소멸이다!\n -클로즈우의 키사우 왕" #Kloseu de Kissau king
   
   SE_DED_T:0 "종말" #Apocalypse
   SE_DED_A:0 "그리고 침묵이 떨어졌다"
@@ -130,18 +130,18 @@
   
   SE_OST_GRIFFONIA_T:0 "오스트-그리포니아 제국"
   SE_OST_GRIFFONIA_A:0 "어둠의 시대가 도래하였도다."
-  SE_OST_GRIFFONIA_D:0 "Whether nations live in prosperity or starve to death interests me only in so far as we need them as slaves for our culture: otherwise it is of no interest to me. We, Griffons, who are the only creatures in the world who have a decent attitude towards animals and will treat these pony animals accordingly.\n -Edler von Wingenberg"
+  SE_OST_GRIFFONIA_D:0 "국가가 번영하든 굶어 뒤저버려도 우리 문화의 노예로 필요로 하는 한 나에게 상관없다. 그렇지 않으면 나의 대한 관심이 없는 것이다. 나는 세계에서 유일하게 동물의 대한 품위를 가지고 있으며 나는 그 품위의 따라 포니들을 다룰 것이다.\n -에들러 폰 비겐버그"
   
-  SE_PAN_GRIFFONIA_T:0 "Pan-Griffonian Socialist Commonwealth"
-  SE_PAN_GRIFFONIA_A:0 "Forward to Communism!"
-  SE_PAN_GRIFFONIA_D:0 "Socialism in life demands a complete spiritual transformation in the masses degraded by centuries of bourgeois rule.\n -Victor Allard"
+  SE_PAN_GRIFFONIA_T:0 "범 그리포니아 사회주의 연방"
+  SE_PAN_GRIFFONIA_A:0 "공산주의를 향해 전진!"
+  SE_PAN_GRIFFONIA_D:0 "삶에서의 사회주의란 수 세기에 걸친 타락한 부르주아들의 통치에서 타락해버린 인민들이 타락으로부터의 완전한 영적인 변화를 요구하는 것이다.\n -빅터 앨라드"
   
   SE_WORLD_SOC_REP_T:0 "세계 사회주의 공화국"
   SE_WORLD_SOC_REP_A:0 "세상은 예전처럼 단결될수 없어"
-  SE_WORLD_SOC_REP_D:0 "인생은 아름다워. 미래 세대가 모든 악인 억압과 폭력은 정화하게하고, 아름다운 인생을 마음껏 즐기십시오!\n -Sinister Serov"
+  SE_WORLD_SOC_REP_D:0 "인생은 아름다워라! 훗날의 세대들이 모든 악과 억압과 폭력에서 벗어나 삶을 마음껏 향유하게 하자!\n -시나스터 세로프"
   
   SE_HOLY_PONY_EMPIRE_T:0 "신성 포니 제국"
-  SE_HOLY_PONY_EMPIRE_A:0 "그럼 이제 그리포니아가 포니아인가?"
+  SE_HOLY_PONY_EMPIRE_A:0 "그럼 이제 그리포니아가 '포니'아인가?"
   SE_HOLY_PONY_EMPIRE_D:0 "그리펜하임의 폐허가 불에 타버릴 때 그들의 썩은 제국과 그로버 왕조도 불태워 버릴 것입니다.\n -그랜드 프린스 천상의 눈" #Heavenly Snow
   
   SE_GRI_RIV_WAR_GRI_T:0 "대 동방 전쟁"
@@ -152,17 +152,17 @@
   SE_LNS_POWNER_A:0 "An eye for an eye"
   SE_LNS_POWNER_D:0 "For every Pony the Reformists murdered\nFor every racist law they passed\nFor every wrong that wasn’t right\nFor all the dead Kerstininkai would fight\n -Kerstininkai marching song"
   
-  SE_LNS_GM_T:0 "Griffking Empire"
-  SE_LNS_GM_A:0 "Utopia with camps and repression?"
-  SE_LNS_GM_D:0 "The folly of the Revolution was to wish to establish virtue on earth. When one would make all creatures good and wise, free, moderate, and liberal, one is led to the fatal desire of killing them all.\n -Anatole France"
+  SE_LNS_GM_T:0 "그리프킹 제국"
+  SE_LNS_GM_A:0 "노동 캠프와 억압이 있는 유토피아?"
+  SE_LNS_GM_D:0 "혁명의 어리석음은 지상에 미덕을 쌓으려는 것이다. 모든 피조물들이 선하고 현명하고 자유롭고 온건하며 자유롭게 행동할 수 있게 만든다면 모든 피조물들을 죽이려는 욕망에 휩싸이게 될 것이다.\n -아나톨 프랑스"
+    
+  SE_KARTHIN_T:0 "카르티아 제국"
+  SE_KARTHIN_A:0 "전진! 전진!"
+  SE_KARTHIN_D:0 "수세기 동안 윙바르디는 기억에 남는 많은 시간을 경험했다. 하지만 오늘은 그 시간중 확실하게 가장 엄숙한 시간이 될 것이다.\n -길리오 비콜리니"
   
-  SE_KARTHIN_T:0 "Karthinian Empire"
-  SE_KARTHIN_A:0 "Triumph! Triumph!"
-  SE_KARTHIN_D:0 "Over the centuries of its history, Wingbardy has experienced many memorable hours, but this is certainly one of the most solemn.\n -Giulio Beakolini"
-  
-  SE_KARTHIN_COM_T:0 "United Socialist Republics of Southern Griffonia"
-  SE_KARTHIN_COM_A:0 "The Workers' Empire?"
-  SE_KARTHIN_COM_D:0 "Socialism is the assertion of new rights of the individual.\n -Antonino Proletarino"
+  SE_KARTHIN_COM_T:0 "남부 그리포니아 사회주의 공화국 연합"
+  SE_KARTHIN_COM_A:0 "노동자들의 제국?"
+  SE_KARTHIN_COM_D:0 "사회주의란 개인의 새로운 권리의 대한 주장이다.\n 안토니오 프롤레타리노"
   
   SE_REPUBLIC_WIN_COM_T:0 "Triumph of the Republican Dream"
   SE_REPUBLIC_WIN_COM_A:0 "The New Republic for a new era"
