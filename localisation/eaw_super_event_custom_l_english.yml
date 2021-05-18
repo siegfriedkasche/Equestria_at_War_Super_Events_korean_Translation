@@ -176,51 +176,51 @@
   SE_REPUBLIC_WIN_S_A:0 "강력한 공화국을 위해서!"
   SE_REPUBLIC_WIN_S_D:0 "그 부담을 받아들인 것에 대해 아무도 감사할 이유가 없습니다. 왜냐하면 제가 기뻐하기에는 너무 큰 희생이였기 떄문입니다. 이 희생이 없었다면 누구도 이 친절을 배풀지 못했을 것입니다. 나는 우리나라를 위해서 양심의 의무로써 차갑고도 차분하게 완성된 조국을 만들 것입니다.\n -라인하르트 선테일"
   
-  SE_STG_ATTACK_EQS_T:0 "Stalliongrad marches on Equestria"
-  SE_STG_ATTACK_EQS_A:0 "The next phase of the revolution"
-  SE_STG_ATTACK_EQS_D:0 "Both here and there among the ranks, resounds one and the same voice:\n«Who is not with us is against us! No one is indifferent, truth is with us!»\nAnd I stand one among them, in the howling flame and smoke\nAnd with all my strength, i pray for them and for the others.\n -A poem from the time of revolution"
+  SE_STG_ATTACK_EQS_T:0 "스탈리온그라드의 이퀘스트리아 행진"
+  SE_STG_ATTACK_EQS_A:0 "혁명의 다음 단계"
+  SE_STG_ATTACK_EQS_D:0 "여기저기서 계급 사이에서 하나의 한 목소리가 들립니다. \ n«우리와 연대하지 않는 사람들은 우리를 반대할 것입니다! 아무도 무관심하지 않습니다. 진실은 우리와 함께합니다!»\ n 그리고 나는 그들 가운데 하나,  불꽃과 연기 속에 서서 울부 짖고 있습니다. \ n 내 모든 힘을 다해 그들과 다른 이들을 위해 기도합니다.\n -혁명 당시의 시"
   #https://ruverses.com/maximilian-voloshin/civil-war/
   
-  SE_WAR_TWO_CONT_EQS_VS_GRI_T:0 "East vs West"
-  SE_WAR_TWO_CONT_EQS_VS_GRI_A:0 "Blood, toil, tears, and sweat."
-  SE_WAR_TWO_CONT_EQS_VS_GRI_D:0 "In the war between the West and the East, the South wins.\n -Griffons proverb"
+  SE_WAR_TWO_CONT_EQS_VS_GRI_T:0 "동부 vs 서부"
+  SE_WAR_TWO_CONT_EQS_VS_GRI_A:0 "피, 수고, 눈물, 땀."
+  SE_WAR_TWO_CONT_EQS_VS_GRI_D:0 "서부와 동부에서 전쟁이 난다면, 전쟁의 승자는 남부가 될것입니다.\n -그리폰 속담"
   
-  SE_WAR_TWO_CONT_CHN_VS_GRI_T:0 "East vs West"
-  SE_WAR_TWO_CONT_CHN_VS_GRI_A:0 "Panzer - Marsch!"
+  SE_WAR_TWO_CONT_CHN_VS_GRI_T:0 "동부 vs 서부"
+  SE_WAR_TWO_CONT_CHN_VS_GRI_A:0 "판저 - 마쉬!"
   SE_WAR_TWO_CONT_CHN_VS_GRI_D:0 "Over and over again the same story was repeated with grandiose plans and insignificant achievements, because there was not enough wisdom and humility to put great plans into practice, because pride ruled, and because in the end war broke out, putting an end to all noble endeavors.\n -Generalfeldmarschall Erich Ebonwing"
   
-  SE_WAR_TWO_CONT_STG_VS_GRI_T:0 "East vs West"
-  SE_WAR_TWO_CONT_STG_VS_GRI_A:0 "The fate of the world at stake"
-  SE_WAR_TWO_CONT_STG_VS_GRI_D:0 "Worker, don't you hear it?\nCoal and steel producers are whispering!\nChemical warfare production whispers too!\nThe whisper comes from all continents!\n«Mobilization against Stalliongrad!»\n -Stalliongrad song"
+  SE_WAR_TWO_CONT_STG_VS_GRI_T:0 "동부 vs 서부"
+  SE_WAR_TWO_CONT_STG_VS_GRI_A:0 "위태로운 세계의 운명"
+  SE_WAR_TWO_CONT_STG_VS_GRI_D:0 "노동자여, 들리지 않는가?\n석탄과 제철 노동자들이 속삭임이!\n화학무기 생산자의 속삭임도 들리지않는가!\n모든 대륙에서 울려펴지는 속삭임!\n«스탈리온그라드에 대항하여 동원한다!»\n -스탈리온그라드 노래" #Mobilization against Stalliongrad!
   
-  SE_WAR_TWO_CONT_SOL_VS_GRI_T:0 "East vs West"
-  SE_WAR_TWO_CONT_SOL_VS_GRI_A:0 "Enemies are everywhere"
-  SE_WAR_TWO_CONT_SOL_VS_GRI_D:0 "The griffonian threat never ceased to be relevant. Why should we live under constant threat of attack, when we can launch a preemptive strike and permanently eliminate another potential problem for my ponies and Equestria?\n -Empress Daybreaker"
+  SE_WAR_TWO_CONT_SOL_VS_GRI_T:0 "동부 vs 서부"
+  SE_WAR_TWO_CONT_SOL_VS_GRI_A:0 "적들은 어디에나 있군"
+  SE_WAR_TWO_CONT_SOL_VS_GRI_D:0 "그리포니아의 위협은 그저 터무니 없습니다. 선제 공격을 시작하고 내 포니들과 이퀘스트리아에 대한 또 다른 잠재적인 문제를 영구적으로 제거 할 수 있는데도 계속해서 공격의 위협을 받아야하는 이유는 무엇입니까?\n -데이브레이커 황후"
   
-  SE_WAR_TWO_CONT_NLR_VS_GRI_T:0 "East vs West"
-  SE_WAR_TWO_CONT_NLR_VS_GRI_A:0 "Just like in the bad old days"
-  SE_WAR_TWO_CONT_NLR_VS_GRI_D:0 "Griffons have always considered that ponies are weak. And I always thought of them as enemies. Why should we waste time on arguing with each other, when the best answer is our army raising the flags of the Lunar Empire over their cities?\n -Empress Nightmare Moon"
+  SE_WAR_TWO_CONT_NLR_VS_GRI_T:0 "동부 vs 서부"
+  SE_WAR_TWO_CONT_NLR_VS_GRI_A:0 "옛날처럼"
+  SE_WAR_TWO_CONT_NLR_VS_GRI_D:0 "그리폰들은 항상 포니들이 약하다고 생각해왔지. 그리고 나는 항상 그들을 적으로 생각했습니다. 가장 좋은 답변은 우리 군대가 도시에 루나 제국의 깃발을 올리는 것일텐데 왜 우리는 서로 논쟁하는 데 시간을 낭비해야합니까?\n -나이트메어 문 여제"
   
   ## 1.2.0 ##
   
-  SE_GREAT_WAR_CHN_D_T:0 "The End of Hegemony"
-  SE_GREAT_WAR_CHN_D_A:0 "Defeat again. Now it's a final defeat."
-  SE_GREAT_WAR_CHN_D_D:0 "Chrysalis had thrown the Changelings into the furnace of war for years, and after losing it, she didn't even have the conscience to shoot herself.\n -Griffon journalist"
+  SE_GREAT_WAR_CHN_D_T:0 "헤게모니의 끝"
+  SE_GREAT_WAR_CHN_D_A:0 "다시 패배했다. 이젠 마지막 패배이다."
+  SE_GREAT_WAR_CHN_D_D:0 "셀레스티아는 수년 동안 체인질링를 전쟁의 용광로에 던졌고, 그것을 잃은 후 그녀는 자살 할 양심조차 남지않았습니다.\n -그리폰 저널리스트"
   
-  SE_STG_INTERVENTION_T:0 "Stalliongrad Intervention"
-  SE_STG_INTERVENTION_A:0 "New front - new problems"
-  SE_STG_INTERVENTION_D:0 "The hour has struck - the hour of the liberation of the working class. It is our duty to save Equestria from the princesses who have completely lose their mind from power.\n -From a report in Stalliongrad on the question of intervention in the civil war"
+  SE_STG_INTERVENTION_T:0 "스탈리온그라드 개입"
+  SE_STG_INTERVENTION_A:0 "새로운 전선 - 새로운 문제들"
+  SE_STG_INTERVENTION_D:0 "노동 계급 해방의 시간이됐다. 권력에 완전히 정신을 잃은 공주들로부터이 이퀘스트리아를 구하는 것이 우리의 의무다.\n -내전 개입에 관한 스탈리온그라드의 보고서 중"
   
-  SE_EQC_LIBERATES_EQS_T:0 "Equestria returns from exile"
-  SE_EQC_LIBERATES_EQS_A:0 "The New World saved the Old World"
-  SE_EQC_LIBERATES_EQS_D:0 "Once again, the free peoples of Equestria and all of Equus emerged victorious from the deadly battle. The monstrous tyrannies that have threatened our very existence have been crushed and destroyed. This is the true glory, and may it be with us forever, lighting our way forward!\n -Princess Celestia"
+  SE_EQC_LIBERATES_EQS_T:0 "이퀘스트리아의 귀환"
+  SE_EQC_LIBERATES_EQS_A:0 "신세계가 구세계를 구했다"
+  SE_EQC_LIBERATES_EQS_D:0 "다시 한번, 이퀘스트리아의 자유 민족과 에쿠스 모두가 치열한 전투에서 승리했습니다. 우리의 존재를 위협했던 괴물같은 폭군은 무너지고 파괴되었습니다. 이것이야말로 참된 영광입니다, 앞으로 나아가는 길을 밝히면서 영원히 함께할 것입니다!\n -셀레스티아 공주" #Once again, the free peoples of Equestria and all of Equus emerged victorious from the deadly battle. The monstrous tyrannies that have threatened our very existence have been crushed and destroyed.
   
-  SE_DED_BC_T:0 "Black Crusade"
-  SE_DED_BC_A:0 "They are coming"
-  SE_DED_BC_D:0 "It's simple. Fear is death, escape is death, captivity is death, surrender is death. It is impossible to negotiate with them. Either we destroy them all, or the whole world will die.\n -Surviving knight of the Arcturian Order"
+  SE_DED_BC_T:0 "검은 크루세이더"
+  SE_DED_BC_A:0 "그들이 오고 있다"
+  SE_DED_BC_D:0 "아주 간단해. 두려움은 죽음이고, 도망은 죽음이고, 포로는 죽이고, 항복은 죽음이야. 그들과의 타협은 있을수 없어. 그들 모두를 파괴하지않으면 전세계는 죽을거야.\n -Arcturian Order의 생존 기사"
   
-  SE_DED_DEFEATED_T:0 "Holy Victory"
-  SE_DED_DEFEATED_A:0 "In saecula saeculorum"
+  SE_DED_DEFEATED_T:0 "신성한 승리"#Holy Victory
+  SE_DED_DEFEATED_A:0 "영원함(In saecula saeculorum)"
   SE_DED_DEFEATED_D:0 "For centuries, our order has held back hordes of monsters, preventing them from destroying civilization. For centuries, we have done our duty valiantly. And time has shown who is right. Our order is moving forward with confidence, and the undead are going to the grave to rest forever.\n -Knight of the Arcturian Order"
   
   SE_BALTIMARE_LAVANDER_T:0 "Lavender Berry"
