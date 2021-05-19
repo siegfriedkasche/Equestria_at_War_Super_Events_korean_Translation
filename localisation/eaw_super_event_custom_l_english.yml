@@ -215,9 +215,9 @@
   SE_EQC_LIBERATES_EQS_A:0 "신세계가 구세계를 구했다"
   SE_EQC_LIBERATES_EQS_D:0 "다시 한번, 이퀘스트리아의 자유 민족과 에쿠스 모두가 치열한 전투에서 승리했습니다. 우리의 존재를 위협했던 괴물같은 폭군은 무너지고 파괴되었습니다. 이것이야말로 참된 영광입니다, 앞으로 나아가는 길을 밝히면서 영원히 함께할 것입니다!\n -셀레스티아 공주" #Once again, the free peoples of Equestria and all of Equus emerged victorious from the deadly battle. The monstrous tyrannies that have threatened our very existence have been crushed and destroyed.
   
-  SE_DED_BC_T:0 "검은 크루세이더"
+  SE_DED_BC_T:0 "흑색 십자군"
   SE_DED_BC_A:0 "그들이 오고 있다"
-  SE_DED_BC_D:0 "아주 간단해. 두려움은 죽음이고, 도망은 죽음이고, 포로는 죽이고, 항복은 죽음이야. 그들과의 타협은 있을수 없어. 그들 모두를 파괴하지않으면 전세계는 죽을거야.\n -Arcturian Order의 생존 기사"
+  SE_DED_BC_D:0 "아주 간단해. 두려움은 죽음이고, 도망은 죽음이고, 포로는 죽이고, 항복은 죽음이야. 그들과의 타협은 있을수 없어. 그들 모두를 파괴하지않으면 전세계는 죽을거야.\n -아크튜러스 기사단의 생존 기사"
   
   SE_DED_DEFEATED_T:0 "신성한 승리"#Holy Victory
   SE_DED_DEFEATED_A:0 "영원함(In saecula saeculorum)"
