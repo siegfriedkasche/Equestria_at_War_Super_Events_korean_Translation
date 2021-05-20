@@ -1,4 +1,4 @@
-﻿l_english:
+l_english:
   SE_GREAT_WAR_T:0 "대전쟁" #The Great War
   SE_GREAT_WAR_A:0 "천년 평화의 끝" #The end of the millennial peace
   SE_GREAT_WAR_D:0 "삶은 나약함을 용서하지 않는다.\n -아돌프 히틀러" #In the face of a great goal, no sacrifices will seem too great.\n -Queen Chrysalis
@@ -230,16 +230,16 @@
   SE_RIV_UNITE_TITLE:0 "리버랜드 통일"
   
   SE_RIV_RCT_RS_T:0 "$SE_RIV_UNITE_TITLE$"
-  SE_RIV_RCT_RS_A:0 "In varietate concordia"
-  SE_RIV_RCT_RS_D:0 "This Treaty marks a new stage in the process of creating an ever closer union among the creatures of Riverlands, in which decisions are taken as openly as possible and as closely as possible to the citizen.\n -From the treaty establishing the River Federation"
+  SE_RIV_RCT_RS_A:0 "다양성 속의 통일(In varietate concordiaㄴ)"
+  SE_RIV_RCT_RS_D:0 "이 조약은 리버랜드의 생물들 사이에 더욱 긴밀한 연합을 형성하는 과정의 새로운 단계를 의미하며, 결정은 가능한 한 공개적으로 시민에게 가깝게 이루어져야 할것입니다.\n -리버연합 설립 조약에서" #From the treaty establishing the River Federation
   
   SE_RIV_RCT_AL_T:0 "$SE_RIV_UNITE_TITLE$"
-  SE_RIV_RCT_AL_A:0 "OHS stands guard"
-  SE_RIV_RCT_AL_D:0 "The Chekist is the political combatant. He is the loyal son of the homeland. He stands at the head of the battle to strengthen the power of our nation and state.\n -Arclight"
+  SE_RIV_RCT_AL_A:0 "OHS stands guard" #?
+  SE_RIV_RCT_AL_D:0 "체키스트는 정치적 싸움꾼입니다. 그는 고국의 충성스러운 아들이며. 그는 우리 국가와 국력의 강화를 위해 전투의 선두에 서 있습니다.\n -아크라이트(Arclightㄴ)"
   
   SE_RIV_RCT_NW_T:0 "$SE_RIV_UNITE_TITLE$"
-  SE_RIV_RCT_NW_A:0 "Ex Unitate Vires"
-  SE_RIV_RCT_NW_D:0 "And friendship between the creatures of the Riverlands is a great and serious achievement. For as long as this friendship exists, the creatures of our country will be free and unconquerable. No one is afraid of us, neither internal nor external enemies, as long as this friendship is alive and well.\n -Nova Whirl"
+  SE_RIV_RCT_NW_A:0 "단결이 힘이다(Ex Unitate Vires)"
+  SE_RIV_RCT_NW_D:0 "\n -Nova Whirl"
   
   SE_RIV_RCT_CH_T:0 "$SE_RIV_UNITE_TITLE$"
   SE_RIV_RCT_CH_A:0 "Red Star of the East"
