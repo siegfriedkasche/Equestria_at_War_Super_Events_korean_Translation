@@ -124,7 +124,7 @@ l_english:
   
   SE_DED_T:0 "종말" #Apocalypse
   SE_DED_A:0 "그리고 침묵이 떨어졌다"
-  SE_DED_D:0 "소중한 나의 친구여, 나는 결코 아무 생각도 하지않을거야\n그러나 침묵은 가장 참혹한 전쟁을 불러오지.\n -종말 이전 시대의 알려지지 않은 시인"
+  SE_DED_D:0 "소중한 나의 친구여, 나는 결코 아무 생각도 하지않을거야.\n그러나 침묵은 가장 참혹한 전쟁을 불러오지.\n -종말 이전 시대의 알려지지 않은 시인"
   
   ## 1.1.0 - 1.1.1 ##
   
@@ -153,7 +153,7 @@ l_english:
   SE_LNS_POWNER_D:0 "개혁 주의자들이 살해한 모든 포니의 희생으로 \ n 모든 인종에 대한 인종차별법에 대해 통과했습니다. \ n 옳지 않은 모든 잘못에 맞서 \ n 죽은 모든 크랲시닌카이가 싸울 것입니다.\n -Kerstininkai marching song"
   
   SE_LNS_GM_T:0 "그리프킹 제국"
-  SE_LNS_GM_A:0 "노동 캠프와 억압이 있는 유토피아?"
+  SE_LNS_GM_A:0 "수용소와 억압이 있는 유토피아?"
   SE_LNS_GM_D:0 "혁명의 어리석음은 지상에 미덕을 쌓으려는 것이다. 모든 피조물들이 선하고 현명하고 자유롭고 온건하며 자유롭게 행동할 수 있게 만든다면 모든 피조물들을 죽이려는 욕망에 휩싸이게 될 것이다.\n -아나톨 프랑스"
     
   SE_KARTHIN_T:0 "카르티아 제국"
@@ -203,8 +203,8 @@ l_english:
   
   ## 1.2.0 ##
   
-  SE_GREAT_WAR_CHN_D_T:0 "헤게모니의 끝"
-  SE_GREAT_WAR_CHN_D_A:0 "다시 패배했다. 이젠 마지막 패배이다."
+  SE_GREAT_WAR_CHN_D_T:0 "패권의 끝"
+  SE_GREAT_WAR_CHN_D_A:0 "다시 패배했다. 이것이 영원할 패배일지어니"
   SE_GREAT_WAR_CHN_D_D:0 "셀레스티아는 수년 동안 체인질링를 전쟁의 용광로에 던졌고, 그것을 잃은 후 그녀는 자살 할 양심조차 남지않았습니다.\n -그리폰 저널리스트"
   
   SE_STG_INTERVENTION_T:0 "스탈리온그라드 개입"
@@ -215,17 +215,17 @@ l_english:
   SE_EQC_LIBERATES_EQS_A:0 "신세계가 구세계를 구했다"
   SE_EQC_LIBERATES_EQS_D:0 "다시 한번, 이퀘스트리아의 자유 민족과 에쿠스 모두가 치열한 전투에서 승리했습니다. 우리의 존재를 위협했던 괴물같은 폭군은 무너지고 파괴되었습니다. 이것이야말로 참된 영광입니다, 앞으로 나아가는 길을 밝히면서 영원히 함께할 것입니다!\n -셀레스티아 공주" #Once again, the free peoples of Equestria and all of Equus emerged victorious from the deadly battle. The monstrous tyrannies that have threatened our very existence have been crushed and destroyed.
   
-  SE_DED_BC_T:0 "흑색 십자군"
+  SE_DED_BC_T:0 "흑십자군"
   SE_DED_BC_A:0 "그들이 오고 있다"
   SE_DED_BC_D:0 "아주 간단해. 두려움은 죽음이고, 도망은 죽음이고, 포로는 죽이고, 항복은 죽음이야. 그들과의 타협은 있을수 없어. 그들 모두를 파괴하지않으면 전세계는 죽을거야.\n -아크튜러스 기사단의 생존 기사"
   
   SE_DED_DEFEATED_T:0 "신성한 승리" #Holy Victory
   SE_DED_DEFEATED_A:0 "영원함(In saecula saeculorum)"
-  SE_DED_DEFEATED_D:0 "수세기 동안 우리의 명령은 몬스터 무리를 막아 문명을 파괴하는 것을 막는 것입니다. 수세기 동안 우리는 용감하게 의무를 다하였습니다. 그리고 시간은 누가 옳은지를 보여주었습니다. 우리의 명령은 확신을 가지고 전진하고 있으며 언데드들은 영원히 안식을 위해 무덤을 향해 가고 있습니다. \n -Knight of the Arcturian Order"
+  SE_DED_DEFEATED_D:0 "수세기 동안 우리의 명령은 몬스터 무리를 막아 문명을 파괴하는 것을 막는 것입니다. 수세기 동안 우리는 용감하게 의무를 다하였습니다. 그리고 시간은 누가 옳은지를 보여주었습니다. 우리의 명령은 확신을 가지고 전진하고 있으며 언데드들은 영원히 안식을 위해 무덤을 향해 가고 있습니다. \n -아크튜리어스 기사단의 기사"
   
   SE_BALTIMARE_LAVANDER_T:0 "라벤더 베리" #Lavender Berry
   SE_BALTIMARE_LAVANDER_A:0 "누가 이퀘스트리아를 지킬것인가?"
-  SE_BALTIMARE_LAVANDER_D:0 "반동자,  베트포니 및 기타 폭도들은 여전히 조국에 대한 죄책감을 속죄 할 수 있습니다. 그들이 죽을 때까지 수용소에서 일함으로써 그들은 사람들의 눈빛 속에서 용서를 찾을 수 있을것입니다. 그들이 죽을 때, 그들은 그들이 국가의 이익에 기여했다는 것을 알고 있기 때문에 그들의 입술에 미소를 지으며 죽을 것입니다.\n -라벤더 베리"
+  SE_BALTIMARE_LAVANDER_D:0 "반동자, 박쥐포니 및 기타 폭도들은 여전히 조국에 대한 죄책감을 속죄 할 수 있습니다. 그들이 죽을 때까지 수용소에서 일함으로써 그들은 사람들의 눈빛 속에서 용서를 찾을 수 있을것입니다. 그들이 죽을 때, 그들은 그들이 국가의 이익에 기여했다는 것을 알고 있기 때문에 그들의 입술에 미소를 지으며 죽을 것입니다.\n -라벤더 베리"
   
   SE_RIV_UNITE_TITLE:0 "리버랜드 통일"
   
@@ -235,7 +235,7 @@ l_english:
   
   SE_RIV_RCT_AL_T:0 "$SE_RIV_UNITE_TITLE$"
   SE_RIV_RCT_AL_A:0 "OHS stands guard" #?
-  SE_RIV_RCT_AL_D:0 "체키스트는 정치적 싸움꾼입니다. 그는 고국의 충성스러운 아들이며. 그는 우리 국가와 국력의 강화를 위해 전투의 선두에 서 있습니다.\n -아크라이트(Arclightㄴ)"
+  SE_RIV_RCT_AL_D:0 "제키스트는 정치적 싸움꾼입니다. 그는 고국의 충성스러운 아들이며. 그는 우리 국가와 국력의 강화를 위해 전투의 선두에 서 있습니다.\n -아크라이트(Arclightㄴ)"
   
   SE_RIV_RCT_NW_T:0 "$SE_RIV_UNITE_TITLE$"
   SE_RIV_RCT_NW_A:0 "단결이 힘이다(Ex Unitate Vires)"
@@ -351,7 +351,7 @@ l_english:
   SE_HERZLAND_PYT_HARMONY_REPUBLIC_D:0 "Just as ponies are loyal to their princesses, so we are loyal to our gods. Just as Equestria lives for centuries without war, so Herzland dreams of the same. With the final unification of our homeland and the demise of the cursed Empire, an era of peace and prosperity is finally dawning for us.\n -Archibald Dawnfeather"
   
   SE_HERZLAND_PYT_COM_T:0 "$SE_HERZLAND_UNITE_TITLE$"
-  SE_HERZLAND_PYT_COM_A:0 "The Red Empire is coming"
+  SE_HERZLAND_PYT_COM_A:0 "붉은 제국이 깨어나다."
   SE_HERZLAND_PYT_COM_D:0 "True freedom exists only where exploitation is eliminated, where there is no oppression of some beings by others, where there is no unemployment and beggary, where no one trembles for the fact that tomorrow he may lose his job, his home, his bread. Today we have liberated Herzland, tomorrow we will liberate all of Griffonia.\n -Wingbert Rohmer"
   
   SE_HERZLAND_PYT_DIETRICH_T:0 "$SE_HERZLAND_UNITE_TITLE$"
