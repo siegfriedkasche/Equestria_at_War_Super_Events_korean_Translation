@@ -66,7 +66,7 @@ l_english:
   
   SE_REPUBLIC_WIN_T:0 "공화주의 이상의 행진"
   SE_REPUBLIC_WIN_A:0 "꿈이 현실이 되다!"
-  SE_REPUBLIC_WIN_D:0 "민주제는 인민의 인민을 위한 인민의 의한 체제이다.\n -에이브럼헴 링컨
+  SE_REPUBLIC_WIN_D:0 "민주제는 인민의 인민을 위한 인민의 의한 체제이다.\n -에이브럼헴 링컨"
   
   SE_REPUBLIC_LOSE_T:0 "공화주의 이상의 죽음"
   SE_REPUBLIC_LOSE_A:0 "이상만으로는 이길 수 없었다."
