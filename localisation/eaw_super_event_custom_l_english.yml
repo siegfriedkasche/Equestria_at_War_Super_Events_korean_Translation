@@ -1,11 +1,11 @@
 l_english:
- SE_GREAT_WAR_T:0 "대전쟁" #The Great War
- SE_GREAT_WAR_A:0 "천년 평화의 끝" #The end of the millennial peace
- SE_GREAT_WAR_D:0 "삶은 나약함을 용서하지 않는다.\n -아돌프 히틀러" #In the face of a great goal, no sacrifices will seem too great.\n -Queen Chrysalis
+ SE_GREAT_WAR_T:0 "대전쟁"
+ SE_GREAT_WAR_A:0 "천년 평화의 끝"
+ SE_GREAT_WAR_D:0 "삶은 나약함을 용서하지 않는다.\n -아돌프 히틀러" 
   
- SE_GREAT_WAR_EV_T:0 "이퀘스트리아의 승리" #Equestrian Victory
- SE_GREAT_WAR_EV_A:0 "드디어 이 지옥이 끝났어" #Finally this hell is over
- SE_GREAT_WAR_EV_D:0 "나의 자랑스러운 포니들이여! 너희의 승리다! 암말과 숫말 모두 최선을 다했다. 모두가 시도했다. 긴 시간도, 위험도, 적군의 맹렬한 공격도, 이 이퀘스트리아의 굽히지 않는 다짐을 무너뜨리지 못 했다.\n -셀레스티아 공주" #My dear ponies! It is your victory! Everyone, mare or stallion, has done their best. Everyone has tried. Neither the long years, nor the dangers, nor the fierce attacks of the enemy, have in any way weakened the unbending resolve of the Equestrian nation.
+ SE_GREAT_WAR_EV_T:0 "이퀘스트리아의 승리" 
+ SE_GREAT_WAR_EV_A:0 "드디어 이 지옥이 끝났어"
+ SE_GREAT_WAR_EV_D:0 "나의 자랑스러운 포니들이여! 너희의 승리다! 암말과 숫말 모두 최선을 다했다. 모두가 시도했다. 긴 시간도, 위험도, 적군의 맹렬한 공격도, 이 이퀘스트리아의 굽히지 않는 다짐을 무너뜨리지 못 했다.\n -셀레스티아 공주" 
  
  SE_GREAT_WAR_SV_T:0 "태양 제국의 승리"
  SE_GREAT_WAR_SV_A:0 "그들이 두려워하는 한!"
@@ -33,10 +33,10 @@ l_english:
  
  SE_SOMBRA_RETURNS_T:0 "솜브라 왕의 귀환"
  SE_SOMBRA_RETURNS_A:0 "그림자의 왕이 다시 돌아왔다."
- SE_SOMBRA_RETURNS_D:0 "나는 평범한 괴물따위임을 바라지않는다!, 나는 괴물들의 왕이다!\n -솜브라 왕" #I am not just any monster, Hope. I am king of the monsters!
+ SE_SOMBRA_RETURNS_D:0 "나는 평범한 괴물따위임을 바라지않는다!, 나는 괴물들의 왕이다!\n -솜브라 왕"
  
- SE_SOMBRA_VICTORY_T:0 "이퀘스트리아를 물리친 솜브라" #Sombra defeats Equestria
- SE_SOMBRA_VICTORY_A:0 "폭군이 방향을 잡았다." #The tyrant got his way
+ SE_SOMBRA_VICTORY_T:0 "이퀘스트리아를 물리친 솜브라"
+ SE_SOMBRA_VICTORY_A:0 "폭군이 방향을 잡았다."
  SE_SOMBRA_VICTORY_D:0 "다른 사람을 억압하는 것은 강점으로 위장한 약점이다.\n -케이던스 공주"
  
  SE_NIGHTMARE_MOON_CV_T:0 "이퀘스트리아 내전"
@@ -45,12 +45,11 @@ l_english:
  
  SE_DAYBREAKER_T:0 "떠오르는 데이브레이커"
  SE_DAYBREAKER_A:0 "새로운 이퀘스트리아의 부활"
- SE_DAYBREAKER_D:0 "우리는 우유부단하고 자비로운 과거에 갇혀서는 안된다. 전쟁은 이미 내 백성의 목숨을 너무 많이 앗아갔다. 나는 더 이상의 말은 필요없다! 우리는 침략자들을 단계적으로 밀어 내고, 감히 우리의 방향을 바라 보는 모든 이를 파괴할 것이다. 이퀘스트리아여, 나는 승리하고 그녀의 적들을 재도 남김없이 제거할것임을 약속합니다!\n -데이브레이커 황후" #We must not get bogged down in the past, indecisive and merciful. The war has already claimed too many lives of my subjects. I say, no more! We will push back the invader, step by step, and destroy everyone who dares even look askance in our direction. Equestria, I promise you this, will prevail and her enemies will not even leave ashes
+ SE_DAYBREAKER_D:0 "우리는 우유부단하고 자비로운 과거에 갇혀서는 안된다. 전쟁은 이미 내 백성의 목숨을 너무 많이 앗아갔다. 나는 더 이상의 말은 필요없다! 우리는 침략자들을 단계적으로 밀어 내고, 감히 우리의 방향을 바라 보는 모든 이를 파괴할 것이다. 이퀘스트리아여, 나는 승리하고 그녀의 적들을 재도 남김없이 제거할것임을 약속합니다!\n -데이브레이커 황후"
  
  SE_TWO_SISTERS_WAR_T:0 "두 자매의 전쟁"
  SE_TWO_SISTERS_WAR_A:0 "낡은 이퀘스트리아는 죽었다"
  SE_TWO_SISTERS_WAR_D:0 "난 누구한테 도망가야하는진 알지만 누구를 향해서 도망가는진 모른다.\n -불명의 포니 저널리스트"
- #When Pompey and Caesar took opposite sides, he said, "I know from whom I flee without knowing to whom to flee.
  
  SE_GROVER_V_T:0 "그로버 5세의 죽음"
  SE_GROVER_V_A:0 "제국이 지속될 수 있을까?" 
@@ -84,7 +83,7 @@ l_english:
  SE_MARESOC_A:0 "전쟁은 평화. 자유는 예속. 무지는 힘."
  SE_MARESOC_D:0 "프롤레타리아는 결코 반란을 일으키지 않을 거야. 그들은 할 수 없어. 폭력적인 봉기의 이상을 소중히 마음속에서 간직했었다면 그 꿈을 버려야할거야. 당이 전복 될 수 있는 방법은 존재하지않아. 당의 통치여 영원하리.\n -당 내부 인원"
  
- SE_ESB_T:0 "이퀘스트리아 망명정부의 반격" #Equestria in exile strikes back
+ SE_ESB_T:0 "이퀘스트리아 망명정부의 반격"
  SE_ESB_A:0 "이퀘스트리아의 자유를 위하여!"
  SE_ESB_D:0 "이퀘스트리아는 전투에서 패했지만 전쟁에서 패하지 않았습니다! 우리가 잃어버린 것은 없으며 우리 조국의 자유와 위대함을 되 찾을 날이 올 것이기에 나는 모든 이퀘스트리아인이 어디에 있든 행동, 희생, 희망으로 나와 단결할 것이라 믿고 있습니다.\n -셀레스티아 공주"
  
@@ -99,15 +98,15 @@ l_english:
  
  #The whole secret of the campaigns unleashed against Riverlands can be explained in two words
  SE_LP_UH_T:0 "$SE_HERZLAND_UNITE_TITLE$"
- SE_LP_UH_A:0 "메드그리프가 어떻게 이겼어?" #How did this madgryf win
- SE_LP_UH_D:0 "제국의 위대함을 회복하는 것은 그리폰에게 있어서 유일한 목표다. 이 위대한 대의를 막는 모든 사람은 배신자며 우리는 모든 집, 모든 둥지, 모든 알을 파괴하기 위해 그들의 지위, 성별 또는 나이에 관계없이 전염병같은 그들을 제거 해야만 한다.\n -페르디난드 던클로우" #Ferdinand Dawnclaw
- #Restoring the greatness of the empire is the only goal that griffons can think of. All who prevent this great cause are traitors and we must root out this infection - regardless of their status, gender or age - to destroy every house, every nest, every egg.
- SE_THX_UPRISING_S_T:0 "토렉스 승리" #Thorax 
+ SE_LP_UH_A:0 "메드그리프가 어떻게 이겼어?"
+ SE_LP_UH_D:0 "제국의 위대함을 회복하는 것은 그리폰에게 있어서 유일한 목표다. 이 위대한 대의를 막는 모든 사람은 배신자며 우리는 모든 집, 모든 둥지, 모든 알을 파괴하기 위해 그들의 지위, 성별 또는 나이에 관계없이 전염병같은 그들을 제거 해야만 한다.\n -페르디난드 던클로우"
+
+ SE_THX_UPRISING_S_T:0 "토렉스 승리"
  SE_THX_UPRISING_S_A:0 "폭정으로부터 자유로운 체인질링!"
  SE_THX_UPRISING_S_D:0 "The guilt of civil war, the miseries which it brings in its train, lie at the door of those who provoked it by illegal oppression, rather than of such as are driven to arms in order to assert their natural rights as free creatures.\n -토렉스"
  
- SE_CHRYSALIS_CORONATION_T:0 "에쿠스의 여제, 크리살리스" # crowned as Empress of Equus
- SE_CHRYSALIS_CORONATION_A:0 "안개로 뒤덮힌 이퀘스트리아" #Equestria at haze
+ SE_CHRYSALIS_CORONATION_T:0 "에쿠스의 여제, 크리살리스"
+ SE_CHRYSALIS_CORONATION_A:0 "안개로 뒤덮힌 이퀘스트리아"
  SE_CHRYSALIS_CORONATION_D:0 "체인질링이 무엇을 원하는지 알고 싶을 때 스스로에게 물어보아라.\n -크리살리스 여왕"
  
  SE_STG_UNITES_EQUESTRIA_T:0 "스탈리온그라드, 이퀘스트리아 통합"
@@ -120,9 +119,9 @@ l_english:
  
  SE_STG_DEFEATED_T:0 "스탈리온그라드의 몰락"
  SE_STG_DEFEATED_A:0 "이상이 무너젔다."
- SE_STG_DEFEATED_D:0 "나라가 오랬동안 풍족하게 살아가는 법은 아주 간단하다. 근면, 법에 대한 복종 그리고 공산주의에 소멸이다!\n -클로즈우의 키사우 왕" #Kloseu de Kissau king
+ SE_STG_DEFEATED_D:0 "나라가 오랬동안 풍족하게 살아가는 법은 아주 간단하다. 근면, 법에 대한 복종 그리고 공산주의에 소멸이다!\n -클로즈우의 키사우 왕"
  
- SE_DED_T:0 "종말" #Apocalypse
+ SE_DED_T:0 "종말"
  SE_DED_A:0 "그리고 침묵이 떨어졌다"
  SE_DED_D:0 "소중한 나의 친구여, 나는 결코 아무 생각도 하지않을거야.\n그러나 침묵은 가장 참혹한 전쟁을 불러오지.\n -종말 이전 시대의 알려지지 않은 시인"
  
@@ -219,11 +218,11 @@ l_english:
  SE_DED_BC_A:0 "그들이 오고 있다"
  SE_DED_BC_D:0 "아주 간단해. 두려움은 죽음이고, 도망은 죽음이고, 포로는 죽이고, 항복은 죽음이야. 그들과의 타협은 있을수 없어. 그들 모두를 파괴하지않으면 전세계는 죽을거야.\n -아크튜러스 기사단의 생존 기사"
  
- SE_DED_DEFEATED_T:0 "신성한 승리" #Holy Victory
+ SE_DED_DEFEATED_T:0 "신성한 승리"
  SE_DED_DEFEATED_A:0 "영원함(In saecula saeculorum)"
  SE_DED_DEFEATED_D:0 "수세기 동안 우리의 명령은 몬스터 무리를 막아 문명을 파괴하는 것을 막는 것입니다. 수세기 동안 우리는 용감하게 의무를 다하였습니다. 그리고 시간은 누가 옳은지를 보여주었습니다. 우리의 명령은 확신을 가지고 전진하고 있으며 언데드들은 영원히 안식을 위해 무덤을 향해 가고 있습니다. \n -아크튜리어스 기사단의 기사"
  
- SE_BALTIMARE_LAVANDER_T:0 "라벤더 베리" #Lavender Berry
+ SE_BALTIMARE_LAVANDER_T:0 "라벤더 베리"
  SE_BALTIMARE_LAVANDER_A:0 "누가 이퀘스트리아를 지킬것인가?"
  SE_BALTIMARE_LAVANDER_D:0 "반동자, 박쥐포니 및 기타 폭도들은 여전히 조국에 대한 죄책감을 속죄 할 수 있습니다. 그들이 죽을 때까지 수용소에서 일함으로써 그들은 사람들의 눈빛 속에서 용서를 찾을 수 있을것입니다. 그들이 죽을 때, 그들은 그들이 국가의 이익에 기여했다는 것을 알고 있기 때문에 그들의 입술에 미소를 지으며 죽을 것입니다.\n -라벤더 베리"
  
@@ -234,7 +233,7 @@ l_english:
  SE_RIV_RCT_RS_D:0 "이 조약은 리버랜드의 생물들 사이에 더욱 긴밀한 연합을 형성하는 과정의 새로운 단계를 의미하며, 결정은 가능한 한 공개적으로 시민에게 가깝게 이루어져야 할것입니다.\n -리버연합 설립 조약에서" #From the treaty establishing the River Federation
  
  SE_RIV_RCT_AL_T:0 "$SE_RIV_UNITE_TITLE$"
- SE_RIV_RCT_AL_A:0 "OHS stands guard" #?
+ SE_RIV_RCT_AL_A:0 "OHS stands guard"
  SE_RIV_RCT_AL_D:0 "제키스트는 정치적 싸움꾼입니다. 그는 고국의 충성스러운 아들이며. 그는 우리 국가와 국력의 강화를 위해 전투의 선두에 서 있습니다.\n -아크라이트(Arclight)"
  
  SE_RIV_RCT_NW_T:0 "$SE_RIV_UNITE_TITLE$"
